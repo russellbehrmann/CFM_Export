@@ -1,0 +1,25 @@
+{
+  "type": "service_account",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
+}
+
+{
+  "type": "service_account",
+  "project_id": "madden-3d354",
+  "private_key_id": "4cb5ece27d45e53819edcf3f9e3fd7e88179d71b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFF/CIGFwPVP8s\nnnAhHtwJaaTjkRvUHjhRLgzrLq3UjYgsccTkJcbyeeRbUhrSKYkiUos89+olhVw4\nuNa9WqjJBlKh6YnfNTBOd18Sosj4eoP2Kj3CYm1QRsr8JygQilSqkqN7cQnznkKp\nYZJo12s9kS61g06PeaP/ffsiGDU8pzApWUje/XWv0o9k83SEsFdmnX8RCu60tL70\nXR+BYvVilFXem6Heu4cz+JX8hJkWrV+ENddzpb1tSvIkuJu/ToUrnHE2eDk1NHfu\nz6M8n5GuiHXZOwjdMfkBRr3wuQWVbJuXR3DmD7REZMbvJ3PhsKFhs4/IKRlbTB0U\nuxqHuy5lAgMBAAECggEACyD1a3HYrOLzP504np4j9YIaFeFpLVqBeo/7mcH6fcB6\nGmxYHjvF1oYsbz2dFxXSUPZRN2GWPoUftnI1ad63Hha1zr+lkc1qi1uxKhe3+lPM\npLcw4ot1Oa2to3xAhmKRMkpyYbN5yOA8Sl0gi7vyKblLZmNiKbbIHFKMPhoY03JR\nwPSdkKo8b5a+zQqoIRR9WviIp2xMfZxxQAzfU8WIL1JU0dGjw7ab1d+Iw3Ct3nQC\n8eZXW09UKcN32UHE24gADyPoIlHSJOWNocJC7Y4w9KQpJ8tHxEGeJkv0S7fXgAPr\n5nDcRgNqmGLrM/6NPVYxTuFpgqbH0pftBeoPBQ+XJwKBgQD6cpA+pTdZuhb93UN9\nUR2kdZDa7tDku/pZDsOATwZbY3fXtGysaU09oBziCMUeE3aHrcFCu2o35aXgftYu\ngO2opWvp9/RrWIeQSOapYekZpDSQMWnWhb9PW+NWCXkFrxx655Y/gIs8dWURdAH1\nuFE6T7G9SRfcmj8y9Mw/eMGkVwKBgQDJdo+VrD7j5tizaIZXllGspiKhtyO8AxwW\n7bhhenT0s5DX8ydX4JCHLvfrOoXd7jn2mCOfbpzBd8JKJwAhrbLVUdt8v29Cn15Q\niahQg8expObrFtryYd4SJerRqtiy8mzGI7BQOZM6+oMTQqS7orgDENm0mzQSN5uF\nTmGy5C3towKBgHH4sKvRg97RUKU2i//7agHtfn4jL+znnoXosg8x5zKvkVoYQVw0\nj3H76yjx1MJbGRWlfM1hfHTzjQkcr1t6UKzumq1eqVwwbYC7rDxo0itZDpKP6ho1\nw1nZ9xqwNOLhTZSgzz8WwEZDJjtLD5lCx7RBkCETokhB6YDG5iv8SCMBAoGADcGd\nvk+bn740j9OUUMi/3PUfKkGyG/VuZpZm36kX8VmNi2FcD2ETHVf0r8g4OdY5eQAc\ndpd79q3xw1R0athMfMpxHUyJEViGfSNZLd5BtXyYE/dkjeZm3oBeT2DGGTn6eXEY\nafH0frN6XcdQLkvHGtZ8txtd69yGLw0SGMAB7tcCgYA301iQbPjxkYv5uEqXUnq2\nqqwH2XMrfl9dBmFGMkEV7kJ295sBM3KkPeMqiSjO+MNbCHnWMk+leOlTa4gxkDeq\nVbgPwMym5DD8qA/jIrQzEUC8Z9KyWLfJ/ZrbYk4eL3ditpNHzAR8MX4UagcjRY8v\nsQweWIbPDHZWQeGcHNWs3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8dn5x@madden-3d354.iam.gserviceaccount.com",
+  "client_id": "100805783174207845635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8dn5x%40madden-3d354.iam.gserviceaccount.com"
+}
